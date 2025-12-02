@@ -23,6 +23,7 @@ you'll need to run a ssh tunnel too - from laptop
 (i.e. 192.168.1.13 is the IP address of the pi)
 
 and on the pi
+
     cd server
     python -m http.server 8000
 
